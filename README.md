@@ -1,8 +1,8 @@
 ### Olá! Eu sou o Pedro Félix 👋
 
-- 🔭Desenvolvedor Full Stack Java Júnior...
+- 🔭Desenvolvedor Full Stack Java Júnior | Cast Group...
 - 🌱 Estudando Java, Spring Boot e Angular (Conhecimento básicos em Typescript, Javascrip )...
-- 📫 Contate-me no email: pedrofelixnunes.j@gmail.com
+- 📫 Contate-me no email: pedrofelixnunes.j@gmail.com, pedro.leite@castgroup.com.br
 
  <div>
   <a href="https://github.com/pedrofnj">
