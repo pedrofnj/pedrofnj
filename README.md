@@ -10,7 +10,9 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrofnj&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
-  <div style="display: inline_block"><br>
+<div style="display: inline_block"><br>
+  
+  <img align="center" alt="pf-Oracle" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg">        
   <img align="center" alt="pf-Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg">
   <img align="center" alt="pf-spring" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg">
   <img align="center" alt="pf-angular" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg">
