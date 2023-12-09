@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Pedro Félix 👋
 
-- 🔭Desenvolvedor Full Stack Java Pleno | Fóton Informática...
-- 🌱 Java, Spring Boot,  Angular, Typescript, Javascrip, Knockout JS, MySQL e H2. Conhecimento Básicos DevOps...
+- 🔭 Analista Desenvolvedor Full Stack Java Pleno | Fóton Informática...
+- 🌱 Java, Spring Boot,  Angular, Typescript, Javascrip, Knockout JS, MySQL e Oracle Database, DevOpse E Docket...
 - 📫 Contate-me no email: pedrofelixnunes.j@gmail.com, pedro.leite@foton.la
 
 <div>
@@ -21,6 +21,8 @@
 </div>
 
 ##
+
+![Snake animation](https://github.com/USERNAME/USERNAME/blob/output/github-contribution-grid-snake.svg)
   
 <div> 
   <a href="https://instagram.com/pedroo_feelixx" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
