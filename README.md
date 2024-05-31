@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Pedro Félix 👋
 
-- 🔭 Analista Desenvolvedor Full Stack Java Pleno | Fóton Informática...
-- 🌱 Java, Spring Boot,  Angular, Typescript, Javascrip, Knockout JS, MySQL e Oracle Database, DevOpse E Docket...
+- 🔭 Analista Desenvolvedor Full Stack Java Pleno | Fóton Informática.
+- 🌱 Java, Spring Boot, Angular, Typescript, JavaScrip, Knockout JS, MySQL, Oracle Database, DevOps e Docket.
 - 📫 Contate-me no email: pedrofelixnunes.j@gmail.com, pedro.leite@foton.la
 
 <div>
