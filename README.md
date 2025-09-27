@@ -9,7 +9,7 @@
 
 Sou Desenvolvedor Full Stack com sólida experiência em sistemas bancários e corporativos, atuando desde a manutenção de sistemas legados até o desenvolvimento de soluções modernas com foco em performance, segurança e integração entre serviços. Trabalho com desenvolvimento backend e frontend, além de práticas DevOps e cloud computing.
 
-- 🔁 Experiência com **sistemas legados (Java 7)** e **modernização com Java 17+**
+- 🔁 Experiência com **sistemas legados (Java 7)** e **modernização com Java 21+**
 - ☕ Backend: **Java**, **Spring Boot**, **APIs RESTful**, **Spring Security**, **Batch**
 - 🌐 Frontend: **Angular**, **KnockoutJS**, **TypeScript**, **JavaScript**, **HTML/CSS**
 - 🧰 DevOps: **Docker**, **CI/CD**, **GitLab/GitHub Actions**, **SonarQube**, **Nexus**
@@ -23,7 +23,7 @@ Sou Desenvolvedor Full Stack com sólida experiência em sistemas bancários e c
 
 I am a Full Stack Developer with strong experience in banking and enterprise systems, working from legacy maintenance to the development of scalable and secure cloud-based solutions. My work includes backend and frontend development, DevOps automation, and cloud integrations.
 
-- 🔁 Experience with **legacy systems (Java 7)** and **modernization using Java 17+**
+- 🔁 Experience with **legacy systems (Java 7)** and **modernization using Java 21+**
 - ☕ Backend: **Java**, **Spring Boot**, **RESTful APIs**, **Spring Security**, **Batch**
 - 🌐 Frontend: **Angular**, **KnockoutJS**, **TypeScript**, **JavaScript**, **HTML/CSS**
 - 🧰 DevOps: **Docker**, **CI/CD**, **GitLab/GitHub Actions**, **SonarQube**, **Nexus**
