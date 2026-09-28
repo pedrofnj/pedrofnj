@@ -63,7 +63,7 @@ I am a Full Stack Developer with strong experience in banking and enterprise sys
 
 - 📧 pedrofelixnunes.j@gmail.com  
 - 📧 pedro.leite@foton.la  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/pedro-félix-48378610a)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/pedro-l-48378610a/)  
 - 💻 [GitHub](https://github.com/pedrofnj)  
 - 📸 [Instagram](https://instagram.com/pedroo_feelixx)  
 
