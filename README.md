@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=640&lines=Java+%7C+Spring+Boot+%7C+Quarkus;Legacy+Modernization+(Java+7+%E2%86%92+21%2B);Kafka+%C2%B7+Redis+%C2%B7+Systems+Integration;Kubernetes+%C2%B7+GitOps+%C2%B7+Argo+CD;Engenheiro+de+Software+Java+%F0%9F%87%A7%F0%9F%87%B7" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=640&lines=Java+%7C+Spring+Boot+%7C+Quarkus;Legacy+Modernization+(Java+7+%E2%86%92+21%2B);Kafka+%C2%B7+Redis+%C2%B7+Systems+Integration;Kubernetes+on+AWS+%2B+On-Premise;Engenheiro+de+Software+Java+%F0%9F%87%A7%F0%9F%87%B7" alt="Typing SVG"/>
   </a>
 </p>
 
@@ -22,16 +22,18 @@ public class PedroFelix implements SoftwareEngineer {
     String   role       = "Software Engineer · Java";
     String   location   = "Brasília, DF · Brasil 🇧🇷";
 
-    String[] focus      = { "Legacy Modernization", "Systems Integration", "Platform Engineering" };
+    String[] focus      = { "Systems Architecture", "Legacy Modernization", "Systems Integration" };
     String[] backend    = { "Java 7 → 21+", "Spring Boot", "Quarkus", "Kafka", "Redis" };
-    String[] platform   = { "Docker", "Kubernetes", "Argo CD", "Helm", "GitLab CI" };
+    String[] platform   = { "Kubernetes (AWS + on-premise)", "Docker", "Argo CD", "Helm" };
 
     String   currently  = "Mission-critical banking system used across Brazil 🏦";
     String   building   = "Lexium — my own legal SaaS ⚖️";
+    String   exploring  = "AI agents for code review → AgentForge 🤖";
+    String   learning   = "Postgraduate in Software Engineering with Java 🎓";
 
     @Override
     public String motto() {
-        return "Modernize without breaking production.";
+        return "Keep evolving. Modernize without breaking production.";
     }
 }
 ```
@@ -42,7 +44,7 @@ public class PedroFelix implements SoftwareEngineer {
 
 ## <img src="https://flagcdn.com/w40/us.png" width="28" alt="US flag"/> English
 
-**Software Engineer focused on Java enterprise systems.** I evolve mission-critical legacy applications, modernize them incrementally, integrate systems, and build the platform they run on.
+**Software Engineer focused on Java enterprise systems.** I evolve mission-critical legacy applications, modernize them to support system growth, integrate systems, and run the platform behind them on Kubernetes, in the cloud (AWS) and on-premise.
 
 <table>
 <tr>
@@ -55,7 +57,7 @@ Maintenance and modernization of a mission-critical banking system used across B
 <td width="50%" valign="top">
 
 🔄 **Modernization**<br/>
-Gradual migration of legacy code and environments, with no disruption to production
+Legacy migration to support system growth and technological evolution, with no disruption to production
 
 </td>
 </tr>
@@ -68,16 +70,16 @@ Event-driven integrations with Kafka and Redis, REST APIs, hands-on production d
 </td>
 <td width="50%" valign="top">
 
-⚙️ **Platform**<br/>
-CI/CD pipelines, containers, Kubernetes and GitOps (Argo CD, Helm, Kustomize)
+☸️ **Platform**<br/>
+Kubernetes on AWS and on-premise, GitOps (Argo CD, Helm, Kustomize) and CI/CD pipelines
 
 </td>
 </tr>
 <tr>
 <td colspan="2" valign="top">
 
-🚀 **Products**<br/>
-I design and build products end to end: backend, frontend and infrastructure
+📈 **Always evolving**<br/>
+Currently pursuing a Postgraduate degree in Software Engineering with Java: systems architecture, system design and cloud
 
 </td>
 </tr>
@@ -87,7 +89,7 @@ I design and build products end to end: backend, frontend and infrastructure
 
 ## <img src="https://flagcdn.com/w40/br.png" width="28" alt="Brazil flag"/> Português
 
-**Engenheiro de Software com foco em sistemas corporativos Java.** Evoluo aplicações legadas de missão crítica, modernizo de forma incremental, integro sistemas e construo a plataforma onde eles rodam.
+**Engenheiro de Software com foco em sistemas corporativos Java.** Evoluo aplicações legadas de missão crítica, modernizo para sustentar o crescimento do sistema, integro sistemas e opero a plataforma em Kubernetes, na nuvem (AWS) e em servidor local.
 
 <table>
 <tr>
@@ -100,7 +102,7 @@ Sustentação e modernização de um sistema bancário de missão crítica usado
 <td width="50%" valign="top">
 
 🔄 **Modernização**<br/>
-Migração gradual de código e ambientes legados, sem interromper a produção
+Migração de legado para sustentar o crescimento do sistema e a evolução tecnológica, sem interromper a produção
 
 </td>
 </tr>
@@ -113,16 +115,16 @@ Integrações orientadas a eventos com Kafka e Redis, APIs REST e atuação dire
 </td>
 <td width="50%" valign="top">
 
-⚙️ **Plataforma**<br/>
-Esteiras de CI/CD, containers, Kubernetes e GitOps (Argo CD, Helm, Kustomize)
+☸️ **Plataforma**<br/>
+Kubernetes na AWS e em servidor local (on-premise), GitOps (Argo CD, Helm, Kustomize) e CI/CD
 
 </td>
 </tr>
 <tr>
 <td colspan="2" valign="top">
 
-🚀 **Produtos**<br/>
-Projeto e desenvolvo produtos de ponta a ponta: backend, frontend e infraestrutura
+📈 **Evolução contínua**<br/>
+Cursando Pós-Graduação em Engenharia de Software com Java: arquitetura de sistemas, system design e cloud
 
 </td>
 </tr>
@@ -135,7 +137,7 @@ Projeto e desenvolvo produtos de ponta a ponta: backend, frontend e infraestrutu
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,hibernate,gradle,kafka,redis,postgres,mysql&perline=8" /><br/><br/>
   <img src="https://skillicons.dev/icons?i=angular,vue,ts,py,php,kotlin,docker,kubernetes&perline=8" /><br/><br/>
-  <img src="https://skillicons.dev/icons?i=gitlab,githubactions,git,linux&perline=8" />
+  <img src="https://skillicons.dev/icons?i=aws,gitlab,githubactions,git,linux&perline=8" />
 </p>
 
 <p align="center">
@@ -152,7 +154,7 @@ Projeto e desenvolvo produtos de ponta a ponta: backend, frontend e infraestrutu
 ---
 
 ## 📂 Featured Work · Projetos em destaque
-Private repositories — details on request · Repositórios privados — detalhes sob consulta
+<sub>Lexium and SBN are private — details on request · Lexium e SBN são privados — detalhes sob consulta</sub>
 
 <table>
 <tr>
@@ -169,11 +171,23 @@ Private repositories — details on request · Repositórios privados — detalh
 <td width="50%" valign="top">
 
 ### ⛪ Sobrenatural (SBN)
-**EN:** Internal systems and platform for the Sobrenatural church: Worship AI Service (Python), a profile system, internal systems integrated via APIs, and the institutional website.
+**EN:** Internal systems and on-premise Kubernetes platform for the Sobrenatural church: Worship AI Service (Python), a profile system, internal systems integrated via APIs, and the institutional website.
 
-**PT:** Sistemas internos e plataforma da igreja Sobrenatural: Worship AI Service (Python), sistema de perfis, sistemas internos integrados via APIs e o site institucional.
+**PT:** Sistemas internos e plataforma Kubernetes on-premise da igreja Sobrenatural: Worship AI Service (Python), sistema de perfis, sistemas internos integrados via APIs e o site institucional.
 
-`Python` `AI` `Kubernetes` `Argo CD` `MikroTik/Omada` `VLANs`
+`Python` `AI` `Kubernetes on-premise` `Argo CD` `MikroTik/Omada` `VLANs`
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
+### 🤖 [AgentForge](https://github.com/pedrofnj/agentforge) <sub>`open source` · `in progress / em desenvolvimento`</sub>
+**EN:** Read-only AI reviewers and skills for Claude Code and OpenAI Codex: five specialist reviewers (security, architecture, code quality, performance, infrastructure) with evidence-based findings. A project where I'm deepening my knowledge of AI agents and automated code review.
+
+**PT:** Revisores de código com IA para Claude Code e OpenAI Codex: cinco especialistas (segurança, arquitetura, qualidade, performance e infraestrutura) com apontamentos baseados em evidências. Projeto em que aprofundo conhecimentos em agentes de IA e revisão automatizada.
+
+`TypeScript` `Node.js` `CLI` `Vitest` `GitHub Actions (Linux · macOS · Windows)`
 
 </td>
 </tr>
@@ -191,7 +205,7 @@ Private repositories — details on request · Repositórios privados — detalh
 
 <p align="center">
   <b>📐 How I work · Como eu trabalho</b><br/>
-  <code>Clean Code</code> · <code>SOLID</code> · <code>Clean Architecture</code> · <code>Automated Tests</code> · <code>Incremental Modernization</code>
+  <code>Clean Code</code> · <code>SOLID</code> · <code>Clean Architecture</code> · <code>Automated Tests</code> · <code>Incremental Modernization</code> · <code>Continuous Learning</code>
 </p>
 
 <p align="center">
